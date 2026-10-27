@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="5 5 90 90" fill="none">
+  <style>
+    .ink { stroke: #17130f } .lens { fill: #eee8df }
+    @media (prefers-color-scheme: dark) { .ink { stroke: #eee8df } .lens { fill: #17130f } }
+  </style>
+  <!-- Pea's Loupe: Sean's glasses mirrored, the steady lens given a handle -->
+  <g class="ink" stroke-width="4.2" stroke-linecap="round">
+    <circle class="lens" cx="63" cy="50" r="16" />
+    <ellipse class="lens" cx="25" cy="55" rx="14.5" ry="15.5" transform="rotate(-4 25 55)" />
+    <path d="M47 49.5L39.5 53.5" />
+    <path d="M74.6 61.6L84.5 71.5" stroke-width="6" />
+    <path d="M79 50H85" opacity="0.4" />
+  </g>
+</svg>

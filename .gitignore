@@ -1,0 +1,13 @@
+node_modules
+dist
+.vercel
+.env*.local
+*.log
+
+.vercel
+.env*
+
+# Source media; the site ships the processed copies in public/
+/*.png
+/*.jpg
+/*.txt

@@ -1,0 +1,4 @@
+# Source photos and notes at the root; the site only uses the copies in public/.
+/*.png
+/*.jpg
+/project details.txt
